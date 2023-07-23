@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **CSS, JavaScript, Django, Python**
 
-- 💬 Ask me about **React, Bootstrap, Mui**
+- 🔗 My Webseit **www.yunuspolat.com**
 
 - 📫 How to reach me **yunuspolat2528@gmail.com**
 
