@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **CSS, JavaScript, Django, Python**
 
-- 🔗 My Webseit **www.yunuspolat.com**
-
 - 📫 How to reach me **yunuspolat2528@gmail.com**
+
+- 🔗 My Webseit **www.yunuspolat.com**
 
 - ⚡ Fun fact **I have fun writing code**
 
