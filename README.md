@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/herrpolat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herrpolat" height="30" width="40" /></a>
+<a href="https://www.xing.com/profile/Yunus_Polat16" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/49/49297.png?w=826&t=st=1691336080~exp=1691336680~hmac=c539a415febd6285352ae97646e2ef22649df84a34f84af45e33d802eeece6be" alt="xing.com" height="30" width="35" /></a>
 <a href="https://instagram.com/ynsplt1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ynsplt1905" height="30" width="40" /></a>
 </p>
 
