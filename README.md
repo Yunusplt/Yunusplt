@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently learning **CSS, JavaScript, Django, Python**
+- 🌱 I’m currently coding with **React, Next.js, SASS, MaterialUI , Django, Python**
 
 - 📫 How to reach me **yunuspolat2528@gmail.com**
 
